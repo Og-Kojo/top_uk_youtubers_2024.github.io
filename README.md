@@ -2,7 +2,7 @@
 
 
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
-[Power Bi Dashboard]("https://app.powerbi.com/view?r=eyJrIjoiNjU2Yjg3ODgtYzY5Mi00MmNkLTljNmUtZGYzYjJjMWM1MTMwIiwidCI6IjQwZDNjOTEzLTY0ZTctNGRhZC05OWIxLTIxMDlmOTFmNWUyYiJ9")
+[Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjU2Yjg3ODgtYzY5Mi00MmNkLTljNmUtZGYzYjJjMWM1MTMwIiwidCI6IjQwZDNjOTEzLTY0ZTctNGRhZC05OWIxLTIxMDlmOTFmNWUyYiJ9)
 
 
 
